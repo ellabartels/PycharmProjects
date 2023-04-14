@@ -19,4 +19,3 @@ class Cell:
         # otherwise, no value is displayed in the cell
         # the cell is outlined red if it is currently selected
         pass
-
